@@ -870,6 +870,7 @@ a {
   .footer {
     max-height: initial;
     height: initial;
+    padding-bottom: 4rem;
     gap: 3rem;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
